@@ -1,0 +1,6 @@
+python-louvain
+numpy
+networkx
+scikit-learn
+matplotlib
+tqdm
